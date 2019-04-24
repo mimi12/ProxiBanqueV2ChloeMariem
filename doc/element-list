@@ -1,0 +1,5 @@
+org.simple.entity
+org.simple.main
+org.simple.persistance
+org.simple.service
+org.simple.servlet
